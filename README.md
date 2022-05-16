@@ -9,12 +9,19 @@ Financial modeling to decide the best stock to invest in based on risk and perfo
 This project utilizes python 3.10.4 with the following libraries:
 
 *[OS](https://docs.python.org/3/library/os.html) - To fetch content and interact with computer os
+```
 *[Requests](https://docs.python-requests.org/en/master/) - Allowed us to send https requests and interact with API
+```
 *[Pandas](https://pandas.pydata.org/docs/) - To use the panda functions and enable analysis
+```
 *[Yahoo Finance](https://pypi.org/project/yfinance/) - To collect Yahoo Financial data online
+```
 *[Datetime](https://docs.python.org/3/library/datetime.html) - Gives ability to manipulate date
+```
 *hvplot - Gives ability to plot graphs
+```
 *numpy - Makes wokring with large data easier
+```
 
 ---
 
